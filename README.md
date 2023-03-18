@@ -17,6 +17,8 @@ This Flask application is a web-based application that provides [insert purpose.
 - Access the application by visiting `http://localhost:5000` in your web browser
 
 ### More Info
-- an HTML template containing the structure of a web page
+- an HTML template containing the structure of a web page 🌍
 - a CSS stylesheet containing design instructions
-- a Python backend that communicates with a web server
+- a Python backend that communicates with a web server 🖥️
+
+![screen-shot](https://github.com/Deshan555/Flask-WebApp/blob/master/Screenshot_2.png)
